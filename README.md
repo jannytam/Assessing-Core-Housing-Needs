@@ -1,7 +1,7 @@
 # Assessing-Core-Housing-Needs
 **Authors:** Janny Tam, Joel Penner, Peter Baran
 
-**Date:** Winter 2020
+**Date:** Fall 2020
 
 **Language:** SQL
 
